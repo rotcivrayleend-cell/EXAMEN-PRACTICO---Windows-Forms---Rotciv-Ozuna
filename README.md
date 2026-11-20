@@ -33,5 +33,5 @@ Las líneas del pedido se muestran en columnas (Cant, Producto, Precio, Total) y
 Subtotal 560.00 · Descuento 56.00 · Empaque 20.00 · Base 524.00 · ITBIS 94.32 · **Total RD$ 618.32**
 
 ## 6. Captura de pantalla
-![Programa en ejecución](Captura)
+![Programa en ejecución](Captura%20de%20pantalla%202026-11-19%20203517.png)
 
